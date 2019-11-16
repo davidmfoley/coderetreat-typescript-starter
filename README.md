@@ -1,8 +1,8 @@
 ## Code Retreat Typescript & Mocha Starter
 
-###Setup:
+### Setup:
 
 
-`yarn`
-
-`yarn test`
+* Install: `yarn`
+* Run Tests Once: `yarn test`
+* Watch and Run Tests on File Change: `yarn watch`
